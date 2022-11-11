@@ -11,14 +11,14 @@ sudo apt-get install libreadline6 libreadline6-dev
 ## Features
 
 1. external commands
-  1. ls
-  2. echo
-  3. hello (deprecated, before being released 🤣🤣)
+    1. ls
+    2. echo
+    3. hello (deprecated, before being released 🤣🤣)
 2. internal commands
-  1. hello (yes again, this is the one that will actually run)
-  2. cd 
-  3. env 
-  4. set 
+    1. hello (yes again, this is the one that will actually run)
+    2. cd 
+    3. env 
+    4. set 
 
 ## Make from source
 
