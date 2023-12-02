@@ -5,7 +5,7 @@
 
 #include "env.h"
 
-#define PATH "/home/aim97/os/MyShell/build/bin/"
+#define PATH "/usr/bin/"
 
 struct Env_variable {
   char* name;
