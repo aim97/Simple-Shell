@@ -10,13 +10,10 @@ sudo apt-get install libreadline6 libreadline6-dev
 
 ## Features
 
-1. external commands  
-    1. ls
-    2. echo
-    3. hello (deprecated, before being released 🤣🤣)
+1. external commands: Can run any external command in `/usr/bin`.
 
 2. internal commands
-    1. hello (yes again, this is the one that will actually run)
+    1. hello
     2. cd 
     3. env 
     4. set 
@@ -37,7 +34,3 @@ make commands
 ```bash
 ./build/shell
 ```
-
-## Notes
-
-This code is developed to simulate how I expect an actual shell works. any resmeblance between this and reality is mere coincidence. 
